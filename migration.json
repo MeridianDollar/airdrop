@@ -1,0 +1,785 @@
+[
+    {
+        "address": "0x47156a6bD09e6dE89E337ff0C37d94bC096BA1F0",
+        "investments": [
+            {
+                "type": 0,
+                "total": 250000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x4DAdDe4bbB94EB81245C4a2f50578d7AF7922e1B",
+        "investments": [
+            {
+                "type": 0,
+                "total": 280000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xF6bF4b88a8067F5216c1e2e50008cbbb1dA60D35",
+        "investments": [
+            {
+                "type": 0,
+                "total": 253039071610925071892
+            }
+        ]
+    },
+    {
+        "address": "0x2Ee30460701E7AE62Fff9BBA828C523Fb8c41f2a",
+        "investments": [
+            {
+                "type": 0,
+                "total": 500000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xcCFF69a21EF1c8E25bDa6B7E048D0026e9348f51",
+        "investments": [
+            {
+                "type": 0,
+                "total": 9950228179447563847886
+            }
+        ]
+    },
+    {
+        "address": "0xFea6C8ae7dea98A9A7AfD70dAF2fc51E65D5d0fD",
+        "investments": [
+            {
+                "type": 0,
+                "total": 250000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x369f943C1c7fb95116Ddf08e01d755Fd4C155EF3",
+        "investments": [
+            {
+                "type": 0,
+                "total": 4209612601395691665962
+            }
+        ]
+    },
+    {
+        "address": "0xa80ffF6e84362aaFEFc02F60C4847d7b01F96115",
+        "investments": [
+            {
+                "type": 0,
+                "total": 861255650892378238385
+            }
+        ]
+    },
+    {
+        "address": "0x169833EBB85FBD3cb67eeC73Ed02f738c0017951",
+        "investments": [
+            {
+                "type": 0,
+                "total": 500349271432968347671
+            }
+        ]
+    },
+    {
+        "address": "0xedbCBA98b0a83cF46515024887bDfAE8f3B9E7F3",
+        "investments": [
+            {
+                "type": 0,
+                "total": 268884136664441541964
+            }
+        ]
+    },
+    {
+        "address": "0xb87379A604A8B74FdBDb8e2C6B5628a018063413",
+        "investments": [
+            {
+                "type": 0,
+                "total": 1750000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xA6Ed9AdF3531eDC76Dd1880A1Bf4427aC2501949",
+        "investments": [
+            {
+                "type": 0,
+                "total": 301000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xF4F592540695793F5346088201AaeF4e04785D78",
+        "investments": [
+            {
+                "type": 0,
+                "total": 511640967249392401458
+            }
+        ]
+    },
+    {
+        "address": "0x16ea2e8c19Cea329b46EC65050c1C3B9aE375D93",
+        "investments": [
+            {
+                "type": 0,
+                "total": 6548960928780567502646
+            }
+        ]
+    },
+    {
+        "address": "0xE3eEBaB360E367b4e200759F0D955D1140F27430",
+        "investments": [
+            {
+                "type": 0,
+                "total": 5551640161693176628
+            }
+        ]
+    },
+    {
+        "address": "0x523536E81e7f2C058e7849536ECE280A9478848e",
+        "investments": [
+            {
+                "type": 0,
+                "total": 149979021522743966088
+            }
+        ]
+    },
+    {
+        "address": "0xfF3f46CCD8FdDEb02A3Eba03D1B9848B2cD885d6",
+        "investments": [
+            {
+                "type": 0,
+                "total": 3245994904370000000000
+            }
+        ]
+    },
+    {
+        "address": "0xA88E8E6212D50b7Fa8EE7051E37e1284261e0b94",
+        "investments": [
+            {
+                "type": 0,
+                "total": 1000000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x28b5FED8bB7Dc59B0e083786F2ef596D0a357aCB",
+        "investments": [
+            {
+                "type": 0,
+                "total": 1005000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x1A766c6279946BaB891f45ab16140B6444E061a3",
+        "investments": [
+            {
+                "type": 0,
+                "total": 500000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x5Cc70489a306e205E898e04Ba35Ceed51BaDeEc5",
+        "investments": [
+            {
+                "type": 0,
+                "total": 501000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xA25bc8c1e230a476cB00f2e9c93ffC2D4e163dc5",
+        "investments": [
+            {
+                "type": 0,
+                "total": 4000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x896C20Da40c2A4df9B7C98B16a8D5A95129161a5",
+        "investments": [
+            {
+                "type": 0,
+                "total": 752000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xeA39D1f240604De7F4f320507270B36cDc546BcD",
+        "investments": [
+            {
+                "type": 0,
+                "total": 111241752643790000000000
+            }
+        ]
+    },
+    {
+        "address": "0xd9abF3f24c8e1Fb965Df831b16dC03968E1D9779",
+        "investments": [
+            {
+                "type": 0,
+                "total": 292781407878673042
+            }
+        ]
+    },
+    {
+        "address": "0xE2b3aBb9160e126d87297d9A68c660E64A64079C",
+        "investments": [
+            {
+                "type": 0,
+                "total": 20000000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x53655054b411f2D7524D01B5139F38e803688b11",
+        "investments": [
+            {
+                "type": 0,
+                "total": 900000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x0f86AD7A85dc330E454F916b3d9c75bE52F65608",
+        "investments": [
+            {
+                "type": 0,
+                "total": 501000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x079692d56B77EF1681Ad3F7c5F8f801f38a239d1",
+        "investments": [
+            {
+                "type": 0,
+                "total": 8000000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xcAf59164DC95B3C71Ab97DC66674351e50f6Bef8",
+        "investments": [
+            {
+                "type": 0,
+                "total": 15366671404105147469
+            }
+        ]
+    },
+    {
+        "address": "0xca26ECF47Ce060855E652a4179d1D461de943822",
+        "investments": [
+            {
+                "type": 0,
+                "total": 1000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xA710DdA9C6a1cd85cF3ecaF10385efDcA19EDf88",
+        "investments": [
+            {
+                "type": 0,
+                "total": 7715624662914776624607
+            }
+        ]
+    },
+    {
+        "address": "0x11937A80be42092ca79cad9ED235268b9fc16941",
+        "investments": [
+            {
+                "type": 0,
+                "total": 505000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x7499c0f90c334d86c5d006221b14C8b3cE1F1BE2",
+        "investments": [
+            {
+                "type": 0,
+                "total": 501000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x5510B8AaaF3D91F685f84244Cd2Af5915c9F7AD4",
+        "investments": [
+            {
+                "type": 0,
+                "total": 522704293809048518177
+            }
+        ]
+    },
+    {
+        "address": "0x2a9D95e904Bc812f0588B297BEB3B8BBF2BA3BAa",
+        "investments": [
+            {
+                "type": 0,
+                "total": 113440853658530000000000
+            }
+        ]
+    },
+    {
+        "address": "0x31037064077B3e20888217d1238fE75fC6bD7959",
+        "investments": [
+            {
+                "type": 0,
+                "total": 749682668722334967861
+            }
+        ]
+    },
+    {
+        "address": "0x8DC4397696dDd4af057e748d39804b269d6f3205",
+        "investments": [
+            {
+                "type": 0,
+                "total": 101800000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x4119cFC1Ad24194cC0215a072DB51f53d3d3ecE1",
+        "investments": [
+            {
+                "type": 0,
+                "total": 500000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xcD8C19EfA58631696EE3F5e4D52CF561edE9d527",
+        "investments": [
+            {
+                "type": 0,
+                "total": 760000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xbd8bBB5832542D3C2137EF72EdEDca791058A653",
+        "investments": [
+            {
+                "type": 0,
+                "total": 499998419763830156256
+            }
+        ]
+    },
+    {
+        "address": "0xB3fbE7d173C9023cf3873c802ffA76d61E28Ff1e",
+        "investments": [
+            {
+                "type": 0,
+                "total": 1009083364981495419
+            }
+        ]
+    },
+    {
+        "address": "0xBBe4d25655A1E3cA79c6d33a17b58e90fEBD3452",
+        "investments": [
+            {
+                "type": 0,
+                "total": 5296487804870000000000
+            }
+        ]
+    },
+    {
+        "address": "0x79EaE7230F4CD80365DE5251b40d48727a65d45c",
+        "investments": [
+            {
+                "type": 0,
+                "total": 500000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x6f989dAff4F485aBA94583110d555E7Af36E531a",
+        "investments": [
+            {
+                "type": 0,
+                "total": 500000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xFcb54C1735653c61F4d79b81A0b6d407e21c2984",
+        "investments": [
+            {
+                "type": 0,
+                "total": 500000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x65Ce0B4950614055297A07815f70d995B6C19366",
+        "investments": [
+            {
+                "type": 0,
+                "total": 600000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xa631eDe6832b522E9393AACABcA5458c62a3279e",
+        "investments": [
+            {
+                "type": 0,
+                "total": 751000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x8A803a83dE700ea26cec0270058CafF4F05C7978",
+        "investments": [
+            {
+                "type": 0,
+                "total": 29230044015920000000000
+            }
+        ]
+    },
+    {
+        "address": "0x4936f33b7B060c7336fD0e4c61316EA248DA6827",
+        "investments": [
+            {
+                "type": 0,
+                "total": 300049379070000000000
+            }
+        ]
+    },
+    {
+        "address": "0xb28890d5721D8F258bA45Dc922ca09d1243A1ecB",
+        "investments": [
+            {
+                "type": 0,
+                "total": 500000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x154727a1f781e92e89D376460f715De44e4807B3",
+        "investments": [
+            {
+                "type": 0,
+                "total": 505000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xE044Ec32F34c82624d228e0361DCc02802095Fbf",
+        "investments": [
+            {
+                "type": 0,
+                "total": 751809494417564290000
+            }
+        ]
+    },
+    {
+        "address": "0x98f4394ff55E453e221539E846B1BA5D0e767253",
+        "investments": [
+            {
+                "type": 0,
+                "total": 8179284141068774663318
+            }
+        ]
+    },
+    {
+        "address": "0x53A007FA1a447E73eBde5bb4964213131732EdB5",
+        "investments": [
+            {
+                "type": 0,
+                "total": 18777288765450000000000
+            }
+        ]
+    },
+    {
+        "address": "0xE6DBC0ecc6351f6f5E51B3B7320b041fF433Dd4a",
+        "investments": [
+            {
+                "type": 0,
+                "total": 1500000301214343976491
+            }
+        ]
+    },
+    {
+        "address": "0xA3989DA63aDC850D803d7Db4694a7f077A2Bf48d",
+        "investments": [
+            {
+                "type": 0,
+                "total": 30000000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x171df4D197679e52881EE54856FeaF7B46A12dE0",
+        "investments": [
+            {
+                "type": 0,
+                "total": 505000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xE46272e6e86AFdEb5BE457771968914AA0a5FdeE",
+        "investments": [
+            {
+                "type": 0,
+                "total": 519403543590091709358
+            }
+        ]
+    },
+    {
+        "address": "0x57Ca5FB805A9EEC9943FB37065b6C42737974DFA",
+        "investments": [
+            {
+                "type": 0,
+                "total": 7500000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x346E5e46a6bB32427C975FB9dF463986e902cC2F",
+        "investments": [
+            {
+                "type": 0,
+                "total": 5000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xc38A77ebe0fe50f697eEfC9078AC2e8908C8F497",
+        "investments": [
+            {
+                "type": 0,
+                "total": 502662761098701154251
+            }
+        ]
+    },
+    {
+        "address": "0x03B5a8C4019cBd44b668600ef949CF77ac9dAEdf",
+        "investments": [
+            {
+                "type": 0,
+                "total": 1072603051923633002
+            }
+        ]
+    },
+    {
+        "address": "0xDee0E21c242e9707069870a808Aaa3a949bb3322",
+        "investments": [
+            {
+                "type": 0,
+                "total": 501000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x0c07aEF2f354082ccAE93F9a4217Da05b0Fd96f5",
+        "investments": [
+            {
+                "type": 0,
+                "total": 10710835620987837022
+            }
+        ]
+    },
+    {
+        "address": "0xEF43332990c79D7060acB4c14d87e5a9e938daDb",
+        "investments": [
+            {
+                "type": 0,
+                "total": 30000000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xf0c776713066ba17C3b2176A7203ABefAeEE6F41",
+        "investments": [
+            {
+                "type": 0,
+                "total": 30000000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0xa3EdD0318c9E4aE0491af6605A73c3bD46c985Cd",
+        "investments": [
+            {
+                "type": 0,
+                "total": 250965544399700886829
+            }
+        ]
+    },
+    {
+        "address": "0x746142306DF106F1a42B9447552101Bc9E4d8809",
+        "investments": [
+            {
+                "type": 0,
+                "total": 7227480090529181185
+            }
+        ]
+    },
+    {
+        "address": "0x0c2cA095740e6979b38bd4ce464c91fcb35f42Eb",
+        "investments": [
+            {
+                "type": 0,
+                "total": 5098077284782736881270
+            }
+        ]
+    },
+    {
+        "address": "0xcD8fBF8F430dC13EC903A7284e01E546724e86BF",
+        "investments": [
+            {
+                "type": 0,
+                "total": 765852755086747995142
+            }
+        ]
+    },
+    {
+        "address": "0x6b922B72e9eA912B250b9BFF18D19Ab41160153f",
+        "investments": [
+            {
+                "type": 0,
+                "total": 1000000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x4D328e3F326C96b883b83Bfd8e29f3C2Ebfd4341",
+        "investments": [
+            {
+                "type": 0,
+                "total": 501000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x11Ab0cBc3F0512ee39546c8E4dC8ED1451F8ddc9",
+        "investments": [
+            {
+                "type": 0,
+                "total": 516628027432524011145
+            }
+        ]
+    },
+    {
+        "address": "0xE17119D8613009483f02499B27F93E497F19E571",
+        "investments": [
+            {
+                "type": 0,
+                "total": 750000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x30F89f5f4cF25f457B4D9cBFb64a64A97F00bED0",
+        "investments": [
+            {
+                "type": 0,
+                "total": 50000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x46c4eb8bc58b00231fcff5BF5605fD630eccEdC9",
+        "investments": [
+            {
+                "type": 0,
+                "total": 212155298542786042579
+            }
+        ]
+    },
+    {
+        "address": "0x86501Be88EBA8C60c9ABd1d430A4281DC7F5B2a3",
+        "investments": [
+            {
+                "type": 0,
+                "total": 51442198333980000000000
+            }
+        ]
+    },
+    {
+        "address": "0xC1d45203b30Ce3BE7be5347d18DfA8E9F82873CC",
+        "investments": [
+            {
+                "type": 0,
+                "total": 251000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x8343d5Dcc4F1c5e83f26A54fcF9A2A6752a4FF26",
+        "investments": [
+            {
+                "type": 0,
+                "total": 512725683157933747908
+            }
+        ]
+    },
+    {
+        "address": "0x92c9623DF086C020BF05690d5EFee65Bc068bB11",
+        "investments": [
+            {
+                "type": 0,
+                "total": 275082589747590590265
+            }
+        ]
+    },
+    {
+        "address": "0x8ddE18f1222bf768e68318d71C1e36865C1A7140",
+        "investments": [
+            {
+                "type": 0,
+                "total": 250000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x98b0ECD49B455e1CC56dbcD3EfC00E161a144c73",
+        "investments": [
+            {
+                "type": 0,
+                "total": 785000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x889054B05Dcd42f47eb686486673da99ECb0B8C1",
+        "investments": [
+            {
+                "type": 0,
+                "total": 505000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x630410E9864f34bC5A8e85F4D5f36b994289FCC6",
+        "investments": [
+            {
+                "type": 0,
+                "total": 649000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x60098402561505948A64F8e2caeCa322F8Bb1024",
+        "investments": [
+            {
+                "type": 0,
+                "total": 155442000000000000000000
+            }
+        ]
+    },
+    {
+        "address": "0x67c8885A6996163abCf998B2eEb68Cf32Ea18CEb",
+        "investments": [
+            {
+                "type": 3,
+                "total": 198000000000000000000
+            }
+        ]
+    }
+]
